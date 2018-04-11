@@ -1,0 +1,10 @@
+使用虚拟环境virenv_py2.7: workon virenv_py2.7
+启动服务器：D:\python_workspace\petShop目录下  ->   python manage.py runserver 
+  
+
+admin：
+	用户：lsy
+	密码：qwer123456
+user：
+	用户：1365590659
+	密码：a1365590659
